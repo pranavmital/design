@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Lodhi Wallpaper Pack"
+date: 2020-1-2
+description: Phone wallpapers made out of pictures I clicked at Delhi's Lodhi Art District.
+image: /assets/images/lodhicover.jpg
+author: Pranav Mital
+tags: 
+  - Common
+---
+![Cover](/assets/images/lodhicover.jpg#full)
+
+### Lodhi Art District
+The Lodhi Art District in Lodhi Colony is one my favourite places to take a walk in Delhi. In fact, it’s one of the only places I’d drive down to for a walk. 
+
+In 2016, the [St+art India Foundation](https://st-artindia.org/), a nonprofit organization working on art projects in public spaces to make art accessible to a wider audience, got 25 artists from all over India and the world to create magic on the walls of government residential buildings in Lodhi Colony. This led to the birth of India’s first public and open-air art gallery. It has now become so popular that it finds itself on many must-see/must-visit lists of Delhi and has been visited by personalities like the First Lady of France - Brigitte Macron. You can read more about the district in [this article](https://theculturetrip.com/asia/india/articles/a-look-inside-indias-first-public-art-district/) and you can also check out its [Google Arts & Culture Page](https://g.co/arts/83x8sLAom1eREv95A).    
+
+Nestled along the walls of the housing blocks in the district are murals like these:
+
+![mural1](/assets/images/lodhi/embed1.jpg)
+[Image taken from St+art India Foundation's Website](https://st-artindia.org/project/lodhi-art-district)
+
+![mural2](/assets/images/lodhi/embed2.jpg)
+[Image taken from St+art India Foundation's Website](https://st-artindia.org/project/lodhi-art-district)
+
+![mural3](/assets/images/lodhi/embed3.jpg)
+[Image taken from St+art India Foundation's Website](https://st-artindia.org/project/lodhi-art-district)
+
+You can take your time as you weave through the streets along which these eye-catching artworks are. Usually, there’s very little vehicular traffic in the colony, as a result of which you’ll find that you’re able to walk bang in the middle of the road; not something you can do everywhere in a place like Delhi. If you want to take a break, you can go to the adjacent Meharchand Market or Khanna Market and grab something to eat or drink. I usually take a Cappuccino or Tropical Iceberg from Cafe Coffee Day based on how the weather is, but you do you.
+
+The current situation has definitely made me miss being able to go here, but what it has also done is given me time to finally finish this project and get these wallpapers out. I had taken these pictures in one of my visits to the district specifically for creating wallpapers but had been procrastinating on doing it until today. I closed in on multiple murals in search of minimal patterns that might look good on a phone screen. The texture and uneven topography of the walls add to the interesting-ness. You might also spot blemishes and footprints - I could’ve cleaned them up in Photoshop, but I’ve left them there because I wanted a rustic look & feel.
+
+Aside from cropping, absolutely no editing or manipulation has been done to these photos. They were shot on an iPhone 7 Plus and they’re all SOOC (Straight Out Of Camera).
+
+### Wallpapers
+![1](/assets/images/lodhi/m1.jpg)
+[Download Link for **1**](/assets/images/lodhi/1.jpg)
+[Download Link for **2**](/assets/images/lodhi/2.jpg)
+
+
+![2](/assets/images/lodhi/m2.jpg)
+[Download Link for **3**](/assets/images/lodhi/3.jpg)
+[Download Link for **4**](/assets/images/lodhi/4.jpg)
+
+
+![3](/assets/images/lodhi/m3.jpg)
+[Download Link for **5**](/assets/images/lodhi/5.jpg)
+[Download Link for **6**](/assets/images/lodhi/6.jpg)
+
+
+![4](/assets/images/lodhi/m4.jpg)
+[Download Link for **7**](/assets/images/lodhi/7.jpg)
+[Download Link for **8**](/assets/images/lodhi/8.jpg)
+
+
+![5](/assets/images/lodhi/m5.jpg)
+[Download Link for **9**](/assets/images/lodhi/9.jpg)
+[Download Link for **10**](/assets/images/lodhi/10.jpg)
+
+
+![6](/assets/images/lodhi/m6.jpg)
+[Download Link for **11**](/assets/images/lodhi/11.jpg)
+[Download Link for **12**](/assets/images/lodhi/12.jpg)
+
+
+![7](/assets/images/lodhi/m7.jpg)
+[Download Link for **13**](/assets/images/lodhi/13.jpg)
+[Download Link for **14**](/assets/images/lodhi/14.jpg)
+[Download Link for **15**](/assets/images/lodhi/15.jpg)
+
+Incase you end up using one of these as your phone's wallpaper, I'd love to see it. Share a snapshot of your screen as an instagram story and tag me [@pranavmital](https://www.instagram.com/pranavmital/).
+
+References:
+
+[theculturetrip.com](https://theculturetrip.com/asia/india/articles/a-look-inside-indias-first-public-art-district)
+
+[st-artindia.org](https://st-artindia.org/project/lodhi-art-district)
+
+[thebetterindia.com](https://www.thebetterindia.com/47808/street-art-india-foundation-lodhi-colony/)

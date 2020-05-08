@@ -1,0 +1,32 @@
+<!-- The footer at the very bottom of the screen -->
+<footer class="footer section-padding">
+  <div class="grid">
+  
+    <div class="footer__container">
+      
+
+      {% include social.html %}
+      <p class="subscribe__text">pranavmital.biz@gmail.com</p>
+    </div>
+  </div>
+
+  <div class="subscribe" id="subscribe">
+      <div class="subscribe__container">
+        <!-- <span class="subscribe__title">Subscribe</span> -->
+        <p class="subscribe__text">Copyright © Pranav Mital 2020</p>
+
+        <!-- {% include subscribe-form.html %} -->
+      </div>
+    </div>
+  
+</footer>
+
+{% include contact.html %}
+
+{% if paginator.next_page %}
+  <script>
+    var maxPages = parseInt('{{ paginator.total_pages }}');
+  </script>
+{% endif %}
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
